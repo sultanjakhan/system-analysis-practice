@@ -1,0 +1,15 @@
+# This vault is private by default. Only explicitly allowed practice files are published.
+/*
+
+!/.gitignore
+!/README.md
+
+!/Тесты/
+!/Тесты/**
+/Тесты/.backup/
+
+!/Пет-проект — TradeBridge/
+!/Пет-проект — TradeBridge/**
+
+# Never publish answer backups from any allowed folder.
+**/.backup/
